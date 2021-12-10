@@ -89,6 +89,8 @@
 ![image](https://user-images.githubusercontent.com/77496081/145518742-2655a801-f998-40fc-81f6-b509f087ce12.png)
 # scroll-animation
 ![image](https://user-images.githubusercontent.com/77496081/145518886-198c1088-ba4c-4bfe-81bd-259ef15538d3.png)
+# snow-hover-card-main
+![image](https://user-images.githubusercontent.com/77496081/145528729-309ac4c2-c55d-4d45-ab3d-74c07df6f3a2.png)
 # sound-board
 ![image](https://user-images.githubusercontent.com/77496081/145518955-c002b56a-e6cb-4f25-8ed5-0dd711e4d2c9.png)
 # split-landing-page
